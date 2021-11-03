@@ -7,7 +7,7 @@ let age = 23;
 
 console.log(myName, age);
 
-const name = "Ді ";
+const name = "Ді ggggggggggggg";
 const dogName = 'Mania';
 
 console.log(typeof name,typeof dogName);
